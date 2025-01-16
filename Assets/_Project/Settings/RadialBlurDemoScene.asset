@@ -102,7 +102,7 @@ MonoBehaviour:
   active: 1
   BlurStrength:
     m_OverrideState: 1
-    m_Value: 2.6
+    m_Value: 2.65
   BlurWidth:
     m_OverrideState: 1
     m_Value: 0.9
